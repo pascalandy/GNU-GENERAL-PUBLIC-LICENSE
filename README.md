@@ -49,7 +49,7 @@ You should have received a copy of the GNU General Public License along with thi
 ```
 
 
-## License & copyright
+## License
 
 - This git repo is under the **GNU V3** license. [Find it here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
 
