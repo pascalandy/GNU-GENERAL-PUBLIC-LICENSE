@@ -48,9 +48,35 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, read it here https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md
 ```
 
-## Forked from:
 
+## License & copyright
+
+- This git repo is under the **GNU V3** license. [Find it here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
+
+
+## Sources & fork
+
+- This Git repo is available at [https://github.com/pascalandy/docker-stack-this](https://github.com/pascalandy/docker-stack-this)
+
+Fork:
 - https://www.gnu.org/licenses/gpl.txt
 - https://www.gnu.org/licenses/#GPL
 
-Please forked as well.
+
+## Keep in touch
+
+```
+ ____                     _      _              _
+|  _ \ __ _ ___  ___ __ _| |    / \   _ __   __| |_   _
+| |_) / _` / __|/ __/ _` | |   / _ \ | '_ \ / _` | | | |
+|  __/ (_| \__ \ (_| (_| | |  / ___ \| | | | (_| | |_| |
+|_|   \__,_|___/\___\__,_|_| /_/   \_\_| |_|\__,_|\__, |
+                                                  |___/
+```
+
+- My [« now page »](https://pascalandy.com/blog/now/)
+- Follow me on [Twitter](https://twitter.com/askpascalandy)
+
+P.S. As you might see, I’m not a native English speaker. If something sounds funny, please let me know.  Just [open an issue](https://github.com/firepress-org/ghostfire/issues). Thank you!
+
+Cheers!
