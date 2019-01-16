@@ -35,9 +35,9 @@ https://youtu.be/iBVgcjhYV2A?t=17m11s (between 17m11 to 19m24)
 ## How to Apply These Terms to Your Project
 
 ```
-< HERE, insert a one liner description of the project >
-
 Copyright (C) 2019 pascalandy.com/blog/now OR https://twitter.com/askpascalandy OR https://github.com/pascalandy
+
+Project: < HERE, insert a one liner description of the project >
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -45,7 +45,8 @@ Read it here: https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/mast
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, read it here https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md
+You should have received a copy of the GNU General Public License along with this program.
+Read it here https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md
 ```
 
 
