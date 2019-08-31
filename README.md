@@ -7,11 +7,11 @@ https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md
 
 The whole idea is that we can **mash-up** each other's work by giving original credits.
 
-Hear what is the GNU GPL license by **Seth Godin**. Taken from Seth's podcast Akimbo, episode "All rights reserved". This worths 1m40 of your time.
+Let's **Seth Godin** explain what it is. Taken from Seth's podcast Akimbo, episode "All rights reserved." This worths 1m40 of your time.
 
 https://pascalandy.com/blog/what-is-the-gnu-gpl-license/
 
-Second, here is Plain english explanation by the GNU's creator. Watch **Richard Stallman** explains the idea.
+Second, here is Plain English explanation by the GNU's creator. Watch **Richard Stallman** explains the idea.
 
 [![2019-01-07_20h53](https://user-images.githubusercontent.com/6694151/50804962-4f000b80-12be-11e9-8dfa-5c7b2639e8f6.jpg)](https://youtu.be/iBVgcjhYV2A?t=17m11s)
 
@@ -21,13 +21,13 @@ https://youtu.be/iBVgcjhYV2A?t=17m11s (between 17m11 to 19m24)
 
 **First**, I wanted a clean **Markdown** version of the license.
 
-**Second**, no matter how I trust the open source community, **I feel it’s not best practice** to: 
+**Second**, no matter how I trust the open-source community, **I feel it’s not best practice** to: 
 - Use a link that points to a licence written by a third party
 - Use licence(s) proposed by GitHub
 
-If any changes happen, how do you know it's still right for you? By using scenario #1 or #2, you could put yourself in a position where you may lose the control of what the licence was supposed to mean at the moment you read it.
+If any changes happen, how do you know it's still right for you? By using scenario #1 or #2, you could put yourself in a position where you may lose control of what the licence was supposed to mean at the moment you read it.
 
-I believe everyone should fork the licence they want to use on their own repos.
+I believe everyone should fork the licence they want to use on their git repo.
 
 ## License
 
