@@ -17,19 +17,15 @@ I believe everyone should fork the licence they want to use on their own repos.
 
 ## Understand the license in plain english
 
-1) What is the GNU GPL license by Seth Godin
-
-Taken from Seth's podcast Akimbo, episode "All rights reserved". This worths 1m40 of your time.
+What is the GNU GPL license by **Seth Godin**. Taken from Seth's podcast Akimbo, episode "All rights reserved". This worths 1m40 of your time.
 
 https://pascalandy.com/blog/what-is-the-gnu-gpl-license/
 
-#2) Plain english explanation by the GNU's creator
-
-Watch Richard Stallman explains the idea.
-
-https://youtu.be/iBVgcjhYV2A?t=17m11s (between 17m11 to 19m24)
+#2) Plain english explanation by the GNU's creator. Watch Richard Stallman explains the idea.
 
 [![2019-01-07_20h53](https://user-images.githubusercontent.com/6694151/50804962-4f000b80-12be-11e9-8dfa-5c7b2639e8f6.jpg)](https://youtu.be/iBVgcjhYV2A?t=17m11s)
+
+https://youtu.be/iBVgcjhYV2A?t=17m11s (between 17m11 to 19m24)
 
 ## License
 
