@@ -5,11 +5,9 @@
 
 The whole idea is that we can **mash-up** each other's work by giving original credits.
 
-Let's **Seth Godin** explain what it is. Taken from Seth's podcast Akimbo, episode "All rights reserved." This worths 1m40 of your time.
+**First**, let's **Seth Godin** explain what it is. Taken from Seth's podcast Akimbo, episode "All rights reserved." This worths 1m40 of your time. https://pascalandy.com/blog/what-is-the-gnu-gpl-license/
 
-https://pascalandy.com/blog/what-is-the-gnu-gpl-license/
-
-Second, here is Plain English explanation by the GNU's creator. Watch **Richard Stallman** explains the idea.
+**Second**, here is Plain English explanation by the GNU's creator **Richard Stallman**.
 
 [![2019-01-07_20h53](https://user-images.githubusercontent.com/6694151/50804962-4f000b80-12be-11e9-8dfa-5c7b2639e8f6.jpg)](https://youtu.be/iBVgcjhYV2A?t=17m11s)
 
@@ -18,9 +16,10 @@ https://youtu.be/iBVgcjhYV2A?t=17m11s (between 17m11 to 19m24)
 
 ## Why forking this license?
 
-**First**, I wanted a clean **Markdown** version of the license.
+I wanted a clean **Markdown** version of the license.
 
-**Second**, no matter how I trust the open-source community, **I feel it’s not best practice** to: 
+No matter how I trust the open-source community, **I feel it’s not best practice** to: 
+
 - Use a link that points to a licence written by a third party
 - Use licence(s) proposed by GitHub
 
