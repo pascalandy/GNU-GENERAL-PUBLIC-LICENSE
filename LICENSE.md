@@ -180,4 +180,18 @@ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY C
 
 If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
 
+#### 18\. Applications in Docker images
+
+As with all Docker images, these likely also contain other software
+which may be under different licenses (such as Bash, etc. from the
+base distribution, along with any direct or indirect dependencies
+of the primary software being contained).
+
+Some additional license information which was able to be auto-detected
+might be found in the repo-info repository's ghost/ directory.
+
+As for any pre-built image usage, it is the image user's responsibility
+to ensure that any use of this image complies with any relevant licenses
+for all software contained within.
+
 END OF TERMS AND CONDITIONS
