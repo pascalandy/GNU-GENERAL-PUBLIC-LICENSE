@@ -81,7 +81,16 @@ Check this post for more details: [Contributing to our Github project](https://p
 
 ## License
 
-- This git repo is under the **GNU V3** license. [Find it here](./LICENSE).
+Copyright (C) 2019 — Pascal Andy
+
+Project:
+https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
+
+Find the GNU General Public License V3 at:
+https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md
+
+Basically, you have to credit my work AND keep it open source.
+by Pascal Andy | https://pascalandy.com/blog/now/
 
 </p>
 </details>
