@@ -7,6 +7,14 @@ Status template:
 
 # Releases
 
+## 3.2.1 (2020-02-27)
+### ⚡️ Updates
+- [96f8a5b](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/commit/96f8a5b) Update GNU-GENERAL-PUBLIC-LICENSE to version 3.2.1 /Dockerfile
+- [1900586](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/commit/1900586) FIX GITHUB_USER
+
+### 🔍 Compare
+- ... with previous release: [3.2.0 <> 3.2.1](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/compare/3.2.0...3.2.1)
+
 ## 3.2.0 (2020-02-27)
 ### ⚡️ Updates
 - [c8be241](https://github.com/firepress-org/GNU-GENERAL-PUBLIC-LICENSE/commit/c8be241) Update GNU-GENERAL-PUBLIC-LICENSE to version 3.2.0 /Dockerfile
