@@ -4,8 +4,8 @@
 ###################################
 
 ARG APP_NAME="GNU-GENERAL-PUBLIC-LICENSE"
-ARG VERSION="3.1"
-ARG RELEASE="3.1"
+ARG VERSION="3.2.0"
+ARG RELEASE="3.2.0"
 ARG GITHUB_USER="firepress-org"
 
 ###################################
