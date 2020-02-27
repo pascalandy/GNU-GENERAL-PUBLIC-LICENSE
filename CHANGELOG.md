@@ -7,6 +7,14 @@ Status template:
 
 # Releases
 
+## 3.2.2 (2020-02-27)
+### ⚡️ Updates
+- [2c9f900](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/commit/2c9f900) Update GNU-GENERAL-PUBLIC-LICENSE to version 3.2.2 /Dockerfile
+- [154b5e2](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/commit/154b5e2) Update changelog from bashlava template
+
+### 🔍 Compare
+- ... with previous release: [3.2.1 <> 3.2.2](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/compare/3.2.1...3.2.2)
+
 ## 3.2.1 (2020-02-27)
 ### ⚡️ Updates
 - [96f8a5b](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/commit/96f8a5b) Update GNU-GENERAL-PUBLIC-LICENSE to version 3.2.1 /Dockerfile
