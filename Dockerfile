@@ -6,7 +6,7 @@
 ARG APP_NAME="GNU-GENERAL-PUBLIC-LICENSE"
 ARG VERSION="3.2.0"
 ARG RELEASE="3.2.0"
-ARG GITHUB_USER="firepress-org"
+ARG GITHUB_USER="pascalandy"
 
 ###################################
 # Start you Dockerfile from here (if any)
