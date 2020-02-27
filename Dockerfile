@@ -4,8 +4,8 @@
 ###################################
 
 ARG APP_NAME="GNU-GENERAL-PUBLIC-LICENSE"
-ARG VERSION="3.2.2"
-ARG RELEASE="3.2.2"
+ARG VERSION="3.2.3"
+ARG RELEASE="3.2.3"
 ARG GITHUB_USER="pascalandy"
 
 ###################################
