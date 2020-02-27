@@ -1,21 +1,15 @@
-## About this changelog
+This changelog is based on this [template](https://github.com/firepress-org/bashlava/blob/master/add-on/templates.sh#L3). That's the way we release our code at FirePress ([blog post](https://firepress.org/en/software-and-ghost-updates/)). It's based on [keep a changelog](https://keepachangelog.com/en/1.0.0/) and it adheres to [semantic versioning](https://semver.org/spec/v2.0.0.html).
 
-- FirePress Public [Roadmap](https://trello.com/b/0fCwwzqc/firepress-public-roadmap)
-- Based on this [template](https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4)
-- Release process at FirePress ([blog post](https://firepress.org/en/software-and-ghost-updates/))
-- Based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
-## Status template
-
-### ⚡️ Updates
-### 🚀 New feat.
-### 🐛 Fix bug
-### 🛑 Removed
-### 🔑 Security
-
+Status template:
+| ⚡️ Updates | 🚀 Added | ⚠️ Changed |
+🐛 Fixed | 🛑 Removed | 🔑 Security |
+🙈 Oops | 🎨 Design | 🎉 happy | 🙌 blessed
 
 # Releases
 
+## 3.1-r1
+### ⚡️ Updates
+7574626 - Improve LICENSE
 
 ## 3.1-r0
 ### ⚡️ Updates
