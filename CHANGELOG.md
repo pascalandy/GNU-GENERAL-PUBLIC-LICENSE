@@ -7,6 +7,14 @@ Status template:
 
 # Releases
 
+## 3.2.3 (2020-02-27)
+### ⚡️ Updates
+- [05d0b19](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/commit/05d0b19) Update GNU-GENERAL-PUBLIC-LICENSE to version 3.2.3 /Dockerfile
+- [16d0b52](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/commit/16d0b52) Minor update to changelog
+
+### 🔍 Compare
+- ... with previous release: [3.2.2 <> 3.2.3](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/compare/3.2.2...3.2.3)
+
 ## 3.2.2 (2020-02-27)
 ### ⚡️ Updates
 - [2c9f900](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/commit/2c9f900) Update GNU-GENERAL-PUBLIC-LICENSE to version 3.2.2 /Dockerfile
